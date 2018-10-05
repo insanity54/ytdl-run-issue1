@@ -1,0 +1,15 @@
+{
+  "name": "ytdl-run-issue1",
+  "version": "1.0.0",
+  "description": "A bug report for ytdl-run",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Chris Grimmett <chris@grimtech.net>",
+  "license": "Unlicense",
+  "dependencies": {
+    "ytdl-run": "^0.1.2"
+  }
+}
